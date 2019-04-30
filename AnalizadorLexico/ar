@@ -1,0 +1,34 @@
+identificador1 identificador2
+_identificador
+12
+12.5
+12+5
+8-9
+6*8
+/
+if(12==4){
+<1@
+identidicador@identidicador
+<=
+}else if(12==9){
+hola //hola a todos
+
+/* probando esto
+progando
+*/
+[
+10....
+10.][]
+}
+=
+:)
+@
+___________
+int main (){
+  int a = 5;
+  int b = 9;
+  char c = 'h';
+  char d = "probando";
+  return 0;
+and or !! || &&
+}
